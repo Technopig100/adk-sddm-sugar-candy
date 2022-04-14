@@ -1,3 +1,5 @@
+![view](View-1.png?raw=true)
+
 Sweeten the login experience for your users, your family and yourself. Sugar Candy works on almost all major distributions—see below—and focuses on a straight forward user experience and superb functionality while still offering vast customization possibilities.  
 
 Sugar Candy is based on the Sugar series which was **written completely from scratch** making it clean and simple not only by looks but by design too.  
